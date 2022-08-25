@@ -3,6 +3,7 @@
 pragma solidity ^0.8.9;
 
 contract auction{
+    // an auction contraction for swift bid..
     // State variables..
 
     address payable public bidder;
